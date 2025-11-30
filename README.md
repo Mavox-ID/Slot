@@ -39,16 +39,11 @@ You only need a modern web browser (Chrome, Firefox, Safari, Edge, etc.).
 1.  **Clone the repository** (assuming you upload this code to a Git repository):
 
     ```bash
-    git clone https://github.com/YourUsername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Mavox-ID/Slot.git
+    cd Slot
     ```
 
 2.  **Open the file:** Simply open the `index.html` file in your preferred web browser.
-
-    ```bash
-    # For example, on a Mac:
-    open index.html
-    ```
 
 -----
 
